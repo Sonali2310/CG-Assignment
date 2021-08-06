@@ -5,6 +5,6 @@ The main aim of develop this project was to improve my knowledge of Computer Gra
 
 2.Constraints on the project: Project executes only if the system is installed with glut package. The graphic system should support OpenGL. Output will differ if there is fault in graphic system. May produce flickering image if color and depth buffer is not cleared properly, if a single buffer is used, or buffers are not swapped. We need to initialize glut library in order to interact with window system
 
-3 Description: The design principle and the steps involved in the designing of my Mini-Project work aquarium using Computer Graphics are explained here. The implementation is also described in next few pages. At the outset included are all the required header files, in order to reference the various library functions of both C and OpenGL.
+3 Description: The design principle and the steps involved in the designing of my Mini-Project work aquarium using Computer Graphics are explained here. The implementation is also described in next few pages. At the outset included are all the required header files, in order to reference the various library functions of both C++ and OpenGL.
 
-This project was designed to demonstrate the working of OpenGL API. Since the code is well-commented, any moderately skilled programmer can modify this project as required
+This project was designed to demonstrate the working of OpenGL API. We have made the code readable and taken care of code verbosity and complexity, any moderately skilled programmer can modify this project as required.
